@@ -1,0 +1,40 @@
+{
+  "main": {
+    "button": [
+      {
+        "type": "view",
+        "name": "微职场",
+        "url": "https://www.unicareer.com/academy/"
+      },
+      {
+        "type": "view",
+        "name": "2020 校招",
+        "url": "https://www.unicareer.com/wxmp/liveBroadcast"
+      },
+      {
+        "name": "约课",
+        "sub_button": [
+          {
+            "type": "view",
+            "name": "直播课",
+            "url": "https://www.unicareer.com/wxmp/twenty"
+          },
+          {
+            "type": "miniprogram",
+            "name": "我是导师",
+            "url": "https://www.unicareer.com/academy/",
+            "appid": "wx719343b5cc928fdc",
+            "pagepath": "pages/personal/authorize"
+          },
+          {
+            "type": "miniprogram",
+            "name": "我是学员",
+            "url": "https://www.unicareer.com/academy/",
+            "appid": "wxcc0f4524220b51bd",
+            "pagepath": "pages/personal/authorize"
+          }
+        ]
+      }
+    ]
+  }
+}
