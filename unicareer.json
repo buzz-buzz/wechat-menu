@@ -15,11 +15,6 @@
         "name": "约课",
         "sub_button": [
           {
-            "type": "view",
-            "name": "直播课",
-            "url": "https://www.unicareer.com/wxmp/twenty"
-          },
-          {
             "type": "miniprogram",
             "name": "我是导师",
             "url": "https://www.unicareer.com/academy/",
