@@ -2,9 +2,19 @@
   "main": {
     "button": [
       {
-        "type": "view",
-        "name": "微职场",
-        "url": "https://www.unicareer.com/academy/"
+        "name": "2020校招",
+        "sub_button": [
+          {
+            "type": "view",
+            "name": "微职场",
+            "url": "https://www.unicareer.com/academy/"
+          },
+          {
+            "type": "view",
+            "name": "空中宣讲",
+            "url": "https://www.unicareer.com/wxmp/liveBroadcast"
+          }
+        ]
       },
       {
         "type": "view",
