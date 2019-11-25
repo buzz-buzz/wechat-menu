@@ -2,24 +2,14 @@
   "main": {
     "button": [
       {
-        "name": "2020校招",
-        "sub_button": [
-          {
-            "type": "view",
-            "name": "微职场",
-            "url": "https://www.unicareer.com/academy/"
-          },
-          {
-            "type": "view",
-            "name": "空中宣讲",
-            "url": "https://www.unicareer.com/wxmp/liveBroadcast"
-          }
-        ]
+        "type": "view",
+        "name": "微职场",
+        "url": "https://www.unicareer.com/academy/"
       },
       {
         "type": "view",
-        "name": "PEVC",
-        "url": "https://www.unicareer.com/boutique/detail/5d81f4016c1a5c001cf0e53e"
+        "name": "2020 校招",
+        "url": "https://www.unicareer.com/wxmp/liveBroadcast"
       },
       {
         "name": "约课",
