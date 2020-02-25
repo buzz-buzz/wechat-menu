@@ -7,9 +7,24 @@
         "url": "https://www.unicareer.com/academy/"
       },
       {
-        "type": "view",
-        "name": "产品经理",
-        "url": "https://www.unicareer.com/boutique/detail/5e1462b729aca0001b2cc655?phraseNumber=1&channel=0"
+        "name": "精品课",
+        "sub_button": [
+          {
+            "type": "view",
+            "name": "PEVC",
+            "url": "https://www.unicareer.com/boutique/detail/5d81f4016c1a5c001cf0e53e?phraseNumber=3&channel=0"
+          },
+          {
+            "type": "view",
+            "name": "产品经理",
+            "url": "https://www.unicareer.com/boutique/detail/5e1462b729aca0001b2cc655?phraseNumber=1&channel=0"
+          },
+          {
+            "type": "view",
+            "name": "我的课程",
+            "url": "https://www.unicareer.com/classroom/boutique/mine?activeKey=1"
+          }
+        ]
       },
       {
         "name": "约课",
