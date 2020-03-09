@@ -11,6 +11,11 @@
         "sub_button": [
           {
             "type": "view",
+            "name": "快消管培生",
+            "url": "https://www.unicareer.com/boutique/detail/5e534530707029001bde2039"
+          },
+          {
+            "type": "view",
             "name": "PEVC",
             "url": "https://www.unicareer.com/boutique/detail/5d81f4016c1a5c001cf0e53e?phraseNumber=3&channel=0"
           },
