@@ -20,6 +20,11 @@
             "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTk3ODgxNA==&amp;mid=2247484232&amp;idx=1&amp;sn=03b4e8dccc3cf0c9d9ae24dd626f6ae5&amp;chksm=9bfa9b19ac8d120f08bb6eae94ae7f887faa83d19f21be1cb00ac211c887fa365864c7ba056e&token=1326707943&lang=zh_CN#rd"
           }
         ]
+      },
+      {
+        "type": "view",
+        "name": "分享神器",
+        "url": "https://share.js.org/#/tab/dash"
       }
     ]
   }

@@ -69,3 +69,11 @@ creating main ...
 (node:12284) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
 (node:12284) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
 ```
+
+- Error [WeChatAPIError]: api unauthorized rid: 60fff554-2d06fcdb-4df5f93b
+
+    未认证订阅号没有使用 API 修改菜单的权限，对于个人，可以使用测试公众号正常调用修改菜单的 API。
+
+- Error [WeChatAPIError]: no permission to use weapp in menu rid: 60fff606-70a0013c-1243ca5b
+    
+    没有权限在菜单中添加到小程序的跳转，可能是个人订阅号的关系
