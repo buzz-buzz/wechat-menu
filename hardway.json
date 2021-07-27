@@ -1,0 +1,26 @@
+{
+  "main": {
+    "button": [
+      {
+        "type": "view",
+        "name": "tplant",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTk3ODgxNA==&mid=2247484393&idx=1&sn=92de11f6840d7acac8742c3fc434c82a&chksm=9bfa9bb8ac8d12aed714b2fa08d79f2587024c2c845508807d7dd46e7e42097460479ff719a7&token=1326707943&lang=zh_CN#rd"
+      },
+      {
+        "name": "敏捷",
+        "sub_button": [
+          {
+            "type": "view",
+            "name": "程序员，困在敏捷里",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTk3ODgxNA==&amp;mid=2247484213&amp;idx=1&amp;sn=8873bad9cf26f47582a4cdfd3dbdf478&amp;chksm=9bfa9b64ac8d12722beee8092a2efc36a09e19dd1dceada7e34a82e2d2d7088a3b061271a89b&token=1326707943&lang=zh_CN#rd"
+          },
+          {
+            "type": "view",
+            "name": "敏捷反对敏捷",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTk3ODgxNA==&amp;mid=2247484232&amp;idx=1&amp;sn=03b4e8dccc3cf0c9d9ae24dd626f6ae5&amp;chksm=9bfa9b19ac8d120f08bb6eae94ae7f887faa83d19f21be1cb00ac211c887fa365864c7ba056e&token=1326707943&lang=zh_CN#rd"
+          }
+        ]
+      }
+    ]
+  }
+}
